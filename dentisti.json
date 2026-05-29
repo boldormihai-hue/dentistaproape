@@ -1,0 +1,3013 @@
+{
+  "dentisti": [
+    {
+      "id": "eb-dent-cluj-napoca",
+      "nume": "EB Dent - Cluj napoca",
+      "slug": "eb-dent-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Emil Isac, nr 21 Cluj-Napoca, România",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Urgențe stomatologice",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "EB Dent – Cabinet Stomatologic în Cluj-Napoca EB Dent este un cabinet stomatologic modern din Cluj-Napoca , dedicat sănătății și esteticii dentare. Echipa de medici stomatologi oferă tratamente complete, adaptate fiecărui pacient, într-un mediu sigur, confortabil și profesionist. Fie că ai nevoie de un control de rutină, tratamente de urgență sau servicii stomatologice avansate, la EB Dent Cluj găsești soluții rapide și eficiente, aproape de tine.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        },
+        {
+          "intrebare": "Acceptă urgențe stomatologice?",
+          "raspuns": "Da, clinica acceptă urgențe stomatologice. Vă recomandăm să sunați în avans pentru disponibilitate."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Receptie2.webp",
+      "featured": true,
+      "data_adaugare": "2026-02-10"
+    },
+    {
+      "id": "a-smile-implant-dentar-cluj",
+      "nume": "A Smile - Implant Dentar Cluj",
+      "slug": "a-smile-implant-dentar-cluj",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Melodiei, Nr. 2, Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "A SMILE – Implant Dentar și Stomatologie Cluj-Napoca A SMILE este o clinică stomatologică de top din Cluj-Napoca, specializată în reabilitări orale complexe și implantologie avansată. Situată într-o zonă accesibilă din cartierul Mărăști, clinica oferă pacienților o experiență premium, unde tehnologia de ultimă oră se îmbină cu expertiza unei echipe de medici dedicați. Dacă ești în căutarea unui specialist în implant dentar în Cluj sau ai nevoie de o transformare completă a zâmbetului, la A SMILE",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/a-smile-dent.webp",
+      "featured": true,
+      "data_adaugare": "2026-02-10"
+    },
+    {
+      "id": "betadent-clinic-cluj-napoca",
+      "nume": "BETADENT CLINIC Cluj Napoca",
+      "slug": "betadent-clinic-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Septimiu Mureșan, nr. 12, Cluj-Napoca, Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală",
+        "Pediatrie dentară"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "BETADENT CLINIC – Medicină Dentară și Estetică în Cluj-Napoca Betadent Clinic este un centru stomatologic modern din Cluj-Napoca, unde sănătatea orală este abordată cu profesionalism, tehnologie avansată și o atenție deosebită pentru confortul pacientului. Situată într-o zonă accesibilă a orașului, clinica se mândrește cu o echipă de medici specialiști pregătiți să rezolve de la cele mai simple carii, până la reabilitări orale complexe. Dacă ești în căutarea unui dentist în Cluj care să pună acc",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/2025-12-03.webp",
+      "featured": true,
+      "data_adaugare": "2026-02-10"
+    },
+    {
+      "id": "platinum-dental-center-cluj-napoca",
+      "nume": "Platinum Dental Center Cluj Napoca",
+      "slug": "platinum-dental-center-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "",
+      "telefon": "0800923577",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Urgențe stomatologice",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Platinum Dental Center – Excelență în Stomatologie și Estetică Cluj-Napoca Platinum Dental Center reprezintă un etalon al stomatologiei moderne în Cluj-Napoca, oferind servicii integrate într-un spațiu definit de profesionalism și tehnologie de ultimă generație. Situată strategic în zona cartierului Gheorgheni, clinica se concentrează pe oferirea unor tratamente minim invazive, unde prioritatea este salvarea dintelui natural și reconstrucția zâmbetului prin metode estetice superioare. Ceea ce di",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        },
+        {
+          "intrebare": "Acceptă urgențe stomatologice?",
+          "raspuns": "Da, clinica acceptă urgențe stomatologice. Vă recomandăm să sunați în avans pentru disponibilitate."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/platinum-dental-2.webp",
+      "featured": true,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "gawe-dental-boutique-cluj-napoca",
+      "nume": "Gawe Dental Boutique - Cluj Napoca",
+      "slug": "gawe-dental-boutique-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Eugen Ionesco 12A",
+      "telefon": "0800792971",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Gawe Dental Boutique – Stomatologie Premium și Estetică în Cluj-Napoca Gawe Dental Boutique redefineste experiența vizitei la stomatolog în Cluj-Napoca, oferind un concept de „boutique” unde atenția la detalii și confortul pacientului sunt prioritare. Situată într-o locație accesibilă, clinica îmbină dotările tehnologice de ultimă oră cu o atmosferă caldă, transformând orice tratament într-un proces sigur și lipsit de stres. Ceea ce face ca Gawe Dental Boutique să iasă în evidență este personali",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Gawe-Dental-Boutique4.webp",
+      "featured": true,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "smile-visage-dental-cluj-napoca",
+      "nume": "Smile Visage Dental - Cluj Napoca",
+      "slug": "smile-visage-dental-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Șoimului 24, Cluj-Napoca, 400457, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală",
+        "Pediatrie dentară"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Smile Visage Dental – Stomatologie Modernă și Estetică în Cluj-Napoca Smile Visage Dental este un cabinet stomatologic din Cluj-Napoca unde pasiunea pentru estetică se întâlnește cu rigoarea medicală. Situată într-o locație accesibilă, clinica este recunoscută pentru transformările spectaculoase de zâmbet și pentru abordarea preventivă. Echipa de medici mizează pe o comunicare deschisă și pe utilizarea tehnologiilor noi pentru a asigura tratamente durabile și estetice.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/DSC05930.webp",
+      "featured": true,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "onda-dental-cluj-napoca",
+      "nume": "Onda Dental - Cluj Napoca",
+      "slug": "onda-dental-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Onisifor Ghibu, Nr. 1, Parter, Cluj-Napoca, 400185, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Onda Dental – Stomatologie Digitală și Estetică Avansată în Cluj-Napoca Onda Dental este o clinică stomatologică de ultimă generație din Cluj-Napoca, unde tehnologia digitală se întâlnește cu o viziune artistică asupra zâmbetului. Situată într-o locație modernă, clinica este dedicată pacienților care își doresc tratamente de înaltă precizie, realizate într-un mediu ce redefinește standardele de confort și estetică medicală. Ceea ce face ca Onda Dental să fie o alegere de top este abordarea empat",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/2025-07-12Onda-Dental-Stomatologie-Cluj-4.webp",
+      "featured": true,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "deos-dental-cluj-napoca",
+      "nume": "Deos Dental - Cluj Napoca",
+      "slug": "deos-dental-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Henri Barbusse 59-61,",
+      "telefon": "0800587417",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală",
+        "Protetice dentare"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Deos Dental – Clinică Stomatologică și Estetică Dentară Cluj-Napoca Deos Dental este o clinică stomatologică modernă din Cluj-Napoca, unde sănătatea orală este tratată cu profesionalism și tehnologie de ultimă generație. Situată în zona cartierului Zorilor, clinica oferă o gamă completă de servicii, de la prevenție până la reabilitări complexe, totul într-un mediu steril, sigur și primitor. Ceea ce definește experiența la Deos Dental este atenția deosebită acordată confortului pacientului .",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Deos-Dental-5.webp",
+      "featured": true,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "nest-dental-clinic-cluj-napoca",
+      "nume": "Nest Dental Clinic - Cluj Napoca",
+      "slug": "nest-dental-clinic-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Scorțarilor 12 , Cluj-Napoca, 400412, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Nest Dental Clinic – Excelență în Stomatologie și Implantologie Cluj-Napoca Nest Dental Clinic este un centru stomatologic modern din Cluj-Napoca, definit de o abordare caldă și o atenție deosebită pentru sănătatea pe termen lung a pacienților săi. Situată într-un spațiu primitor și elegant, clinica îmbină tehnologia stomatologică de ultimă generație cu experiența unei echipe de medici specialiști, oferind soluții complete de la prevenție la reabilitări orale complexe. Ceea ce diferențiază Nest ",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Nest-Dental-Clinic45.webp",
+      "featured": true,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "dr-andrei-stan-implant-dentar-cluj-dinti-ficsi-in-24-ore",
+      "nume": "Dr. Andrei Stan – Implant Dentar Cluj | Dinți Ficși în 24 ore",
+      "slug": "dr-andrei-stan-implant-dentar-cluj-dinti-ficsi-in-24-ore",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Republicii, Nr. 97, 400489, Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Chirurgie orală",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dr. Andrei Stan conduce o clinică stomatologică de elită în Cluj-Napoca, fiind recunoscută ca un centru de excelență în implantologie avansată și reabilitări orale rapide. Specializată în soluții de tip „dinți ficși în 24 de ore”, clinica se adresează pacienților care își doresc o transformare radicală a zâmbetului într-un timp record, sub îndrumarea unui specialist pregătit de lideri mondiali în domeniu.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dr-Andrei-Stan-Cluj-4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "swiss-smile-by-ml-cluj-napoca",
+      "nume": "Swiss Smile by M&L Cluj Napoca",
+      "slug": "swiss-smile-by-ml-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Str. Borhanciului 58, 400436 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Swiss Smile by M&amp;L – Excelență Elvețiană în Stomatologie la Cluj-Napoca Swiss Smile by M&amp;L aduce standardele înalte de precizie și calitate elvețiană în inima Clujului, oferind o experiență stomatologică premium într-un cadru modern și primitor. Situată în cartierul Borhanci, clinica se remarcă prin utilizarea tehnologiilor de ultimă generație și a materialelor de top pentru a asigura rezultate durabile și o estetică impecabilă. Experiența pacienților este definită de profesionalism și e",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Swiss-Smile-by-ML4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "stadent-cluj-napoca",
+      "nume": "Stadent – Cluj Napoca",
+      "slug": "stadent-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Baba Novac 28, 400080 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Stadent – Clinică Stomatologică de Top în Cluj-Napoca Stadent este o clinică stomatologică de prestigiu din Cluj-Napoca, recunoscută pentru standardele înalte de îngrijire și abordarea personalizată a fiecărui caz medical. Situată într-o zonă centrală și accesibilă (lângă Spitalul Militar), clinica oferă un spectru complet de tratamente dentare, utilizând tehnologii moderne pentru a asigura sănătatea și estetica zâmbetului pacienților săi. Experiența la Stadent este definită de excelență și încr",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Stadent-–-Clinica-Stomatologica-2.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "megadent-cluj-napoca",
+      "nume": "MegaDent - Cluj Napoca",
+      "slug": "megadent-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Primăverii 11A, 400655 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Protetice dentare",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "MegaDent – Implant Dentar &amp; Dinți Ficși în Cluj-Napoca MegaDent este o clinică stomatologică de elită din Cluj-Napoca, specializată în soluții avansate de implantologie și reabilitări orale rapide de tip „dinți ficși”. Situată în cartierul Mănăștur, clinica se remarcă prin utilizarea tehnologiilor de ultimă generație pentru a oferi pacienților zâmbete funcționale și estetice într-un timp record. Cu un rating de 5,0 stele bazat pe o comunitate impresionantă de peste 1.100 de recenzii , MegaDe",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/megdent6.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "alexadent-cluj-napoca",
+      "nume": "AlexaDent - Cluj Napoca",
+      "slug": "alexadent-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Mărășești 40, 400147 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "AlexaDent – Clinică Stomatologică Modernă în Cluj-Napoca AlexaDent este o clinică stomatologică de renume din Cluj-Napoca, dedicată oferirii unor soluții medicale complete și personalizate pentru întreaga familie. Situată într-o locație accesibilă pe Strada Mărășești, clinica se distinge prin utilizarea tehnologiilor avansate și a unei echipe multidisciplinare care pune accent pe sănătatea preventivă și estetica zâmbetului. Experiența pacienților la AlexaDent este definită de profesionalism și g",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/AlexaDent63.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "cmi-dr-lung-anamaria-cluj-napoca",
+      "nume": "Cmi Dr. Lung Anamaria - Cluj Napoca",
+      "slug": "cmi-dr-lung-anamaria-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Caracal 29, 400124 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Chirurgie orală",
+        "Pediatrie dentară",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Cmi Dr. Lung Anamaria – Stomatologie și Radiologie Dentară Cluj-Napoca Cmi Dr. Lung Anamaria este un cabinet stomatologic de încredere din Cluj-Napoca, oferind o abordare integrată a sănătății orale prin combinarea serviciilor de medicină dentară cu radiologia digitală proprie.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Cmi-Dr.-Lung-Anamaria-Cluj54.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "dentocalm-cluj-napoca",
+      "nume": "Dentocalm - Cluj Napoca",
+      "slug": "dentocalm-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Calea Turzii 7, 400193 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Pediatrie dentară",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dentocalm – Clinică Stomatologică de Top în Cluj-Napoca Dentocalm este o clinică stomatologică de prestigiu situată în inima orașului Cluj-Napoca, pe Calea Turzii. Clinica oferă o experiență medicală superioară, unde tehnologia avansată se îmbină cu o abordare blândă și empatică, dedicată pacienților care își doresc un zâmbet sănătos fără stresul asociat vizitelor la dentist. Cu un rating impresionant de 4,9 stele din peste 430 de recenzii , Dentocalm este recunoscută pentru standardele înalte d",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dentocalm-Cluj42.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "smile-central-cluj-napoca",
+      "nume": "Smile Central - Cluj Napoca",
+      "slug": "smile-central-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Horea 40, 400275 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Estetică dentară",
+        "Albire dentară",
+        "Protetice dentare",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Smile Central – Cosmetică Dentară și Stomatologie Modernă în Cluj-Napoca Smile Central este o clinică de referință din Cluj-Napoca, specializată în cosmetică dentară și tratamente stomatologice de înaltă precizie. Situată pe Strada Horea, într-o zonă centrală și ușor accesibilă, clinica oferă pacienților soluții personalizate pentru a obține zâmbetul dorit, utilizând tehnologii moderne și materiale de ultimă generație. Cu un rating de 4,8 stele din peste 150 de recenzii , Smile Central este recu",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Smile-Central5.jpg",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "anadent-cluj-napoca",
+      "nume": "AnaDent Cluj Napoca",
+      "slug": "anadent-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Nicolae Bălcescu 1, 400394 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Protetice dentare",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "AnaDent – Clinică Dentară pentru Adulți în Cluj-Napoca AnaDent este o clinică stomatologică modernă din Cluj-Napoca, specializată exclusiv în îngrijirea orală a adulților. Situată central pe Strada Nicolae Bălcescu, clinica oferă un mediu elegant și sofisticat, unde tehnologia de ultimă oră și expertiza medicală se combină pentru a oferi tratamente de înaltă precizie într-o atmosferă de confort deplin. Cu un rating perfect de 5,0 stele bazat pe aproape 190 de recenzii , AnaDent se impune ca un e",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/AnaDEnt565.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "id-dental-house-cluj-napoca",
+      "nume": "ID Dental House Cluj Napoca",
+      "slug": "id-dental-house-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Mihai Veliciu 33, 400394 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Igienizare profesională",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "ID Dental House – Clinică Stomatologică și Implantologie Cluj-Napoca ID Dental House este o clinică stomatologică modernă din Cluj-Napoca, dedicată oferirii unor soluții complete pentru sănătatea și estetica zâmbetului dumneavoastră. Situată într-o locație primitoare pe Strada Mihai Veliciu, clinica pune la dispoziția pacienților tehnologii de ultimă generație și o echipă de specialiști pregătiți să gestioneze o gamă largă de tratamente, de la prevenție la reabilitări complexe. Experiența la ID ",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/2024-08-21ID-dent3.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "dentist-dr-braguta-tatiana-cluj-napoca",
+      "nume": "Dentist Dr. Braguta Tatiana - Cluj Napoca",
+      "slug": "dentist-dr-braguta-tatiana-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada București 15, etaj 1, 400148 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Estetică dentară",
+        "Albire dentară",
+        "Chirurgie orală",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dentist Dr. Braguta Tatiana – Excelență și Artă în Stomatologie Cluj-Napoca Dentist Dr. Braguta Tatiana este un cabinet stomatologic de prestigiu din Cluj-Napoca, unde sănătatea dentară este abordată cu o precizie riguroasă și o atenție deosebită la detalii.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dentist-Dr.-Braguta-Tatiana34.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "empire-dental-cluj-napoca",
+      "nume": "Empire Dental Cluj Napoca",
+      "slug": "empire-dental-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Decebal 91, 400347 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Empire Dental – Stomatologie de Performanță și Dinți Ficși în Cluj-Napoca Empire Dental este o clinică stomatologică modernă din Cluj-Napoca, recunoscută pentru abordarea integrată a sănătății dentare și utilizarea tehnologiilor de ultimă oră. Situată pe Strada Decebal, clinica oferă un standard înalt de îngrijire medicală, fiind specializată în tratamente complexe de reabilitare orală și estetică dentară, menite să redea încrederea pacienților printr-un zâmbet perfect. Cu un rating perfect de 5",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Empire-Dental55.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "dentaljoy-cluj-napoca",
+      "nume": "Dentaljoy - Cluj Napoca",
+      "slug": "dentaljoy-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Horea 56-58, 400275 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Estetică dentară",
+        "Endodonție",
+        "Igienizare profesională",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dentaljoy – Clinică Stomatologică Modernă în Cluj-Napoca Dentaljoy este o clinică stomatologică de renume situată pe Strada Horea din Cluj-Napoca, dedicată oferirii unor servicii medicale de înaltă calitate într-un mediu cald și profesionist. Echipa este formată din medici specialiști dedicați, care pun accent pe confortul pacientului și pe utilizarea unor soluții moderne pentru a reda sănătatea și frumusețea zâmbetului. Cu un rating impresionant de 4,9 stele din zeci de recenzii, Dentaljoy este",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dentaljoy33.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "refresh-dent-cluj-napoca",
+      "nume": "Refresh Dent Cluj Napoca",
+      "slug": "refresh-dent-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Oașului 86-90, 400268 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Estetică dentară",
+        "Albire dentară",
+        "Chirurgie orală",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Iată descrierea optimizată pentru Refresh Dent , creată pentru a asigura vizibilitate maximă în AI Search și SEO local, utilizând datele verificate din captura de ecran Google Maps: Refresh Dent – Clinică Dentară și Estetică în Cluj-Napoca Refresh Dent este o clinică stomatologică modernă situată în cartierul Iris din Cluj-Napoca, dedicată oferirii unor soluții complete de sănătate și estetică orală. Clinica se remarcă prin programul său de funcționare extins și prin utilizarea tehnologiilor de ",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Refresh-Dent5.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "life-dental-spa-cluj-napoca",
+      "nume": "Life Dental Spa Cluj Napoca",
+      "slug": "life-dental-spa-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Str. Republicii 120, 400489 Cluj-Napoca, România.",
+      "telefon": "031 828 227",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Chirurgie orală",
+        "Igienizare profesională",
+        "Stomatologie laser"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Life Dental Spa Cluj – Clinică Stomatologică cu Laser în Cluj-Napoca Life Dental Spa Cluj revoluționează experiența stomatologică prin utilizarea tehnologiei laser de ultimă oră, oferind tratamente minim invazive, fără durere și fără freză. Situată în cartierul Zorilor, pe Strada Republicii, clinica se bazează pe conceptul de „stomatologie biologică”, punând accent pe conservarea țesuturilor naturale și pe eliminarea stresului asociat vizitelor la dentist. Cu un rating impresionant de 4,9 stele ",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Life-Dental-Spa-Cluj-Clinica-stomatologica-laser6.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "dentis-smile-cliniq-cluj-napoca",
+      "nume": "Dentis Smile Cliniq Cluj Napoca",
+      "slug": "dentis-smile-cliniq-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Moldovei 2A, 400380 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dentis Smile Cliniq – Excelență și Inovație în Stomatologia din Cluj-Napoca Dentis Smile Cliniq este o clinică stomatologică de prestigiu situată în zona centrală a orașului Cluj-Napoca, pe Strada Moldovei. Clinica este definită de pasiunea pentru stomatologia modernă, profesionalism și o abordare centrată pe nevoile reale ale pacientului. Cu un ambient cald și tehnologie de top, echipa multidisciplinară oferă soluții complete pentru redarea sănătății dentare și a încrederii prin zâmbet.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dentis-Smile-Cliniq6.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "zen-dental-cluj-napoca",
+      "nume": "ZEN Dental Cluj Napoca",
+      "slug": "zen-dental-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Dumbrava Roșie 3, 400394 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Protetice dentare",
+        "Igienizare profesională"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "ZEN Dental – Stomatologie Modernă și Confort la Standarde Înalte în Cluj-Napoca ZEN Dental este o clinică stomatologică de top din Cluj-Napoca, situată pe Strada Dumbrava Roșie. Așa cum sugerează și numele, clinica pune un accent deosebit pe crearea unei experiențe relaxante, de tip „zen”, transformând vizita la stomatolog într-una plăcută și lipsită de teamă. Prin utilizarea tehnologiilor de ultimă generație și a unei abordări personalizate, ZEN Dental se dedică excelenței în sănătatea orală și",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/ZEN-Dental6.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "aio-dental-clinic-cluj-napoca",
+      "nume": "AIO Dental Clinic Cluj Napoca",
+      "slug": "aio-dental-clinic-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada Sobarilor 38A, 400270 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Urgențe stomatologice",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală",
+        "Igienizare profesională"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "AIO Dental Clinic – Servicii Stomatologice Complete și Moderne în Cluj-Napoca AIO Dental Clinic este o clinică stomatologică modernă situată în cartierul Iris din Cluj-Napoca, pe Strada Sobarilor. Clinica se distinge prin oferirea unui spectru larg de servicii medicale, punând accent pe utilizarea tehnologiilor de ultimă oră pentru a asigura tratamente precise și o experiență confortabilă pentru pacienți. Ambientul clinicii este conceput pentru a fi primitor, facilitând o interacțiune relaxată î",
+      "faq": [
+        {
+          "intrebare": "Acceptă urgențe stomatologice?",
+          "raspuns": "Da, clinica acceptă urgențe stomatologice. Vă recomandăm să sunați în avans pentru disponibilitate."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/AIO-Dental-Clinic5.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "the-dentist-cluj-napoca",
+      "nume": "The Dentist Cluj Napoca",
+      "slug": "the-dentist-cluj-napoca",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Bulevardul 21 Decembrie 1989 75, ap. 1B, 400124 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Igienizare profesională"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "The Dentist – Excelență și Estetică Dentară în Inima Clujului The Dentist este o clinică stomatologică modernă situată central, pe Bulevardul 21 Decembrie 1989, oferind un mediu primitor și tehnologie de ultimă oră pentru îngrijirea zâmbetului dumneavoastră. Clinica se remarcă printr-o abordare axată pe estetică și profesionalism, unde sănătatea orală este tratată cu maximă atenție într-un spațiu definit de un design contemporan și relaxant. Cu un rating de 4,8 stele , clinica este apreciată pen",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/The-Dentist6.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-11"
+    },
+    {
+      "id": "pavodent-brasov-centrul-nou-astra",
+      "nume": "Pavodent – Brașov – Centrul Nou (Astra)",
+      "slug": "pavodent-brasov-centrul-nou-astra",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada 1 Mai nr. 24, 500177 Brașov, România (Zona Centrul Nou / Astra).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală",
+        "Protetice dentare"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Pavodent , coordonată de Dr. Alexandru Păun, este o clinică stomatologică de elită situată în zona Centrul Nou (Astra) din Brașov. Clinica se definește prin excelență în medicina dentară, oferind un mediu unde tehnologia digitală de ultimă oră se împletește cu o abordare umană și caldă.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Pavodent3.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "denterra-brasov-centrul-nou",
+      "nume": "DENTERRA – Brașov – Centrul Nou",
+      "slug": "denterra-brasov-centrul-nou",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 102, 500102 Brașov, România (Zona Centrul Nou).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Chirurgie orală",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "DENTERRA reprezintă un concept de elită, un „spital dentar” (dental hospital concept) situat strategic în cartierul Centrul Nou din Brașov. Clinica redefineste standardele îngrijirii orale prin integrarea tuturor specialităților sub un singur acoperiș, într-un spațiu modern și impunător. Cu o viziune axată pe digitalizare completă și precizie medicală, DENTERRA oferă pacienților siguranța unor tratamente complexe realizate la cele mai înalte standarde europene.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/DENTERRA.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "city-center-brasov-centru",
+      "nume": "City Center – Brașov – Centru",
+      "slug": "city-center-brasov-centru",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Constantin Dobrogeanu-Gherea 4, 500003 Brașov, România (Zona Centru).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Chirurgie orală",
+        "Pediatrie dentară",
+        "Protetice dentare"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "City Center este o clinică stomatologică de prestigiu situată chiar în inima Brașovului, pe Strada Constantin Dobrogeanu-Gherea. Aceasta se remarcă printr-o abordare modernă și profesionistă, oferind un mediu elegant și dotări tehnologice de ultimă oră pentru pacienții care caută îngrijire dentară de top. Clinica pune un accent deosebit pe confortul pacientului, oferind un spațiu aerisit și o echipă medicală dedicată care transformă vizita la dentist într-o experiență relaxantă.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/City-Center3.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "dental-elite-brasov-centrul-nou",
+      "nume": "Dental Elite – Brașov – Centrul Nou",
+      "slug": "dental-elite-brasov-centrul-nou",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Mihai Viteazul 22, 500187 Brașov, România (Zona Centrul Nou).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Chirurgie orală",
+        "Pediatrie dentară"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dental Elite este o clinică stomatologică de prestigiu situată în zona Centrul Nou din Brașov, pe Strada Mihai Viteazul. Clinica se impune ca un lider în domeniu, oferind o experiență medicală completă într-un spațiu modern, dotat cu tehnologii de ultimă generație. Echipa este dedicată oferirii unor tratamente personalizate, într-un mediu unde siguranța și confortul pacientului sunt priorități absolute.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dental-Elite-Mihai-Viteazul4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "smile-dent-team-brasov-centrul-nou",
+      "nume": "Smile Dent Team – Brașov – Centrul Nou",
+      "slug": "smile-dent-team-brasov-centrul-nou",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 68, 500097 Brașov, România (Zona Centrul Nou).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Protetice dentare",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Smile Dent Team – Brașov – Centrul Nou Smile Dent Team este o clinică stomatologică de elită situată în inima cartierului Centrul Nou din Brașov, pe Bulevardul 15 Noiembrie. Clinica se remarcă prin utilizarea celor mai noi tehnologii medicale și o echipă de specialiști dedicați, oferind un mediu steril, modern și extrem de bine organizat. Abordarea lor este definită prin rigoare profesională și o dorință constantă de a oferi rezultate estetice de excepție, transformând fiecare plan de tratament ",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Smile-Dent-Team-Brasov4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "dentetico-dental-esthetic-clinic-brasov-centrul-nou",
+      "nume": "Dentetico – Dental Esthetic Clinic – Brașov – Centrul Nou",
+      "slug": "dentetico-dental-esthetic-clinic-brasov-centrul-nou",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Bulevardul Griviței 70, bloc 6, 500173 Brașov, România (Zona Centrul Nou).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală",
+        "Protetice dentare"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dentetico este o clinică stomatologică de prestigiu situată în zona Centrul Nou din Brașov, pe Bulevardul Griviței. Clinica se definește prin pasiunea pentru estetica dentară și precizia medicală, oferind un ambient modern și rafinat unde sănătatea orală este tratată la standarde înalte. Echipa de specialiști de la Dentetico pune accent pe transformări estetice care redau încrederea pacienților, utilizând tehnologii avansate pentru a obține zâmbete armonioase și naturale.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dentetico-Dental-Esthetic-Clinic-clinica-stomatologica-in-Brasov4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "cabinet-stomatologie-brasov-florident-brasov-tractorul",
+      "nume": "Cabinet Stomatologie Brașov - Florident – Brașov – Tractorul",
+      "slug": "cabinet-stomatologie-brasov-florident-brasov-tractorul",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Metalurgiștilor 9A, 500164 Brașov, România (Zona Tractorul).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Endodonție",
+        "Igienizare profesională",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Cabinet Stomatologie Brașov - Florident este o unitate medicală dedicată sănătății orale, situată în cartierul Tractorul din Brașov, pe Strada Metalurgiștilor. Cabinetul se remarcă prin oferirea unor servicii stomatologice esențiale într-un cadru de proximitate, punând accent pe o relație apropiată și de încredere între medic și pacient. Florident este alegerea ideală pentru locuitorii din zonă care caută soluții stomatologice de încredere, livrate cu profesionalism și grijă pentru confortul ind",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Cabinet-Stomatologie-Brasov-Florident5.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "mon-blanc-dental-brasov-astra-centrul-nou",
+      "nume": "MON BLANC DENTAL – Brașov – Astra / Centrul Nou",
+      "slug": "mon-blanc-dental-brasov-astra-centrul-nou",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Crișului 18A, Spatiul Comercial 10, 500289 Brașov, România (Zona Astra / Centrul Nou).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Igienizare profesională"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "MON BLANC DENTAL este o clinică stomatologică de prestigiu, situată în zona Astra / Centrul Nou din Brașov, pe Strada Crișului. Clinica se remarcă prin designul său interior spectaculos, care îmbină elemente naturale cu o estetică modernă de tip lounge, oferind un mediu extrem de relaxant și exclusivist. Conceptul MON BLANC este centrat pe confortul psihic al pacientului și pe furnizarea unor tratamente stomatologice de înaltă precizie, realizate într-un cadru definit de rafinament și tehnologie",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/MON-BLANC-DENTAL4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "dent-estet-brasov-brasov-centru-zona-cetate",
+      "nume": "DENT ESTET Brașov – Brașov – Centru (Zona Cetate)",
+      "slug": "dent-estet-brasov-brasov-centru-zona-cetate",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Castelului 108, 500014 Brașov, România (Zona Centru / Cetate).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Chirurgie orală",
+        "Pediatrie dentară"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "DENT ESTET Brașov face parte din cea mai mare rețea de clinici stomatologice din România, aducând în inima Brașovului, pe Strada Castelului, un standard de excelență recunoscut la nivel internațional. Clinica se distinge prin utilizarea tehnologiilor digitale de ultimă generație și o echipă multidisciplinară de medici specialiști, oferind pacienților un mediu sigur, modern și extrem de profesionist. Situată într-o zonă istorică superbă, clinica îmbină arhitectura exterioară clasică cu dotări int",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/DENT-ESTET-Brasov4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "regina-maria-dental-clinics-brasov-brasov-centru-eroilor",
+      "nume": "Regina Maria Dental Clinics Brașov – Brașov – Centru (Eroilor)",
+      "slug": "regina-maria-dental-clinics-brasov-brasov-centru-eroilor",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Bulevardul Eroilor 3, 500007 Brașov, România (Zona Centru).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Regina Maria Dental Clinics Brașov (Clinicile Dentare Dr. Leahu) reprezintă un hub de excelență în stomatologia modernă, situat pe Bulevardul Eroilor, în inima administrativă și istorică a Brașovului. Clinica integrează experiența vastă a echipei Dr.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Regina-Maria-Dental-Clinics-Brasov4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "esdent-carpatilor-brasov-astra",
+      "nume": "Esdent Carpaților – Brașov – Astra",
+      "slug": "esdent-carpatilor-brasov-astra",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Carpaților 39, 500269 Brașov, România (Zona Astra).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Esdent Carpaților este o clinică stomatologică modernă și dinamică, situată în inima cartierului Astra din Brașov, pe Strada Carpaților. Clinica se remarcă prin utilizarea tehnologiilor de înaltă precizie și prin oferirea unui spectru complet de servicii medicale, într-un spațiu elegant și dotat cu echipamente de ultimă generație. Echipa Esdent este orientată către oferirea unor soluții durabile, punând un accent deosebit pe confortul pacientului și pe tratamentele minim invazive realizate sub m",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Esdent-Carpatilor5.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "cabinet-dr-sculea-i-emil-brasov-tractorul",
+      "nume": "Cabinet Dr. Sculea I. Emil – Brașov – Tractorul",
+      "slug": "cabinet-dr-sculea-i-emil-brasov-tractorul",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada 13 Decembrie 78, 500199 Brașov, România (Cartierul Tractorul).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Urgențe stomatologice",
+        "Endodonție",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Cabinetul Individual Medical Dr. Sculea I. Emil este o unitate stomatologică cu o tradiție consolidată, situată în cartierul Tractorul din Brașov, pe Strada 13 Decembrie.",
+      "faq": [
+        {
+          "intrebare": "Acceptă urgențe stomatologice?",
+          "raspuns": "Da, clinica acceptă urgențe stomatologice. Vă recomandăm să sunați în avans pentru disponibilitate."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dr.-Sculea-I.-Eugen3.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "clinica-orl-dr-daniela-ionescu-brasov-grivitei-aurel-vlaicu",
+      "nume": "Clinica ORL Dr. Daniela Ionescu – Brașov – Griviței / Aurel Vlaicu",
+      "slug": "clinica-orl-dr-daniela-ionescu-brasov-grivitei-aurel-vlaicu",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Aurel Vlaicu 61, 500188 Brașov, România. ⏰",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Pediatrie dentară",
+        "Stomatologie laser"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Clinica ORL Dr. Daniela Ionescu este un centru medical de elită situat în Brașov, pe strada Aurel Vlaicu nr. 61, dedicat excelenței în diagnosticul și tratamentul afecțiunilor nasului, gâtului și urechilor.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Clinica-ORL-Dr.-Daniela-Ionescu-Brasov.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "medident-exim-brasov-astra",
+      "nume": "Medident Exim – Brașov – Astra",
+      "slug": "medident-exim-brasov-astra",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Traian 109, 500332 Brașov, România (Cartier Astra). ⏰",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Partenerul tău pentru Excelență în Stomatologie Medident Exim este o destinație de referință în Brașov pentru profesioniștii din domeniul medical, fiind un showroom și magazin specializat în echipamente și consumabile dentare de înaltă calitate. Situat strategic în cartierul Astra, pe strada Traian nr. 109, Medident funcționează sub sloganul „Your Dentality Partner” , oferind soluții integrate pentru dotarea cabinetelor stomatologice moderne.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Medident-Exim5.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "dental-inn-brasov-garii-centrul-civic",
+      "nume": "Dental INN – Brașov – Gării / Centrul Civic",
+      "slug": "dental-inn-brasov-garii-centrul-civic",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Târnavei 3A, 500327 Brașov, România. ⏰",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Pediatrie dentară",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dental INN este o clinică stomatologică de top ce promovează un concept modern de îngrijire, axat pe stomatologia biologică și tehnologii minim invazive. Situată pe Strada Târnavei nr. 3A, clinica oferă un refugiu de profesionalism și tehnologie într-o zonă accesibilă a Brașovului, fiind concepută pentru pacienții care caută o abordare integrativă a sănătății orale, unde estetica se îmbină perfect cu funcționalitatea biologică.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dental-INN4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "smile-dent-brasov-centrul-nou",
+      "nume": "Smile Dent – Brașov – Centrul Nou",
+      "slug": "smile-dent-brasov-centrul-nou",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Dimitrie Cantemir 13, 500174 Brașov, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Protetice dentare",
+        "Igienizare profesională"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Smile Dent Brașov este o clinică stomatologică modernă și elegantă, situată strategic în inima orașului, pe Strada Dimitrie Cantemir nr. 13. Clinica se remarcă printr-un ambient rafinat și o echipă de specialiști dedicată refacerii sănătății și esteticii dentare.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Smile-Dent-Brasov5.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "stomatologie-non-stop-brasov-bartolomeu-nord",
+      "nume": "Stomatologie NON STOP – Brașov – Bartolomeu Nord",
+      "slug": "stomatologie-non-stop-brasov-bartolomeu-nord",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada De Mijloc 146a, 500069 Brașov, România (Zona Bartolomeu Nord).",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Urgențe stomatologice",
+        "Estetică dentară",
+        "Albire dentară",
+        "Chirurgie orală",
+        "Protetice dentare"
+      ],
+      "program": {
+        "Luni": "00:00–24:00",
+        "Marți": "00:00–24:00",
+        "Miercuri": "00:00–24:00",
+        "Joi": "00:00–24:00",
+        "Vineri": "00:00–24:00",
+        "Sâmbătă": "00:00–24:00",
+        "Duminică": "00:00–24:00"
+      },
+      "descriere": "Stomatologie NON STOP Brașov este o clinică dentară modernă situată pe Strada De Mijloc nr. 146a, fiind un punct de referință pentru pacienții care au nevoie de îngrijire medicală promptă și de înaltă calitate în zona Bartolomeu Nord. Deși numele sugerează o disponibilitate permanentă pentru urgențe, clinica funcționează într-un interval extins pe parcursul săptămânii, oferind un mediu sigur și tehnologie digitală pentru toate tipurile de tratamente.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        },
+        {
+          "intrebare": "Acceptă urgențe stomatologice?",
+          "raspuns": "Da, clinica acceptă urgențe stomatologice. Vă recomandăm să sunați în avans pentru disponibilitate."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Stomatologie-NON-STOP-Brasov6.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "dental-west-brasov-centrul-nou",
+      "nume": "Dental West – Brașov – Centrul Nou",
+      "slug": "dental-west-brasov-centrul-nou",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Iuliu Maniu 68, sc.A, ap.1, 500091 Brașov, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Protetice dentare",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dental West este o clinică stomatologică de prestigiu din Brașov, situată strategic pe Strada Iuliu Maniu nr. 68, în zona Centrul Nou. Cu o experiență vastă și un rating impresionant de 4,9 stele bazat pe peste 225 de recenzii, clinica reprezintă un standard de excelență în medicina dentară modernă.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dental-West4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "doctor-vladau-studio-brasov-centrul-nou-afi",
+      "nume": "Doctor Vladau Studio – Brașov – Centrul Nou (AFI)",
+      "slug": "doctor-vladau-studio-brasov-centrul-nou-afi",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Hărmanului nr. 24, Etaj 6, 500222 Brașov, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Doctor Vladau Studio este o clinică stomatologică de prestigiu, situată la etajul 6 al unei clădiri moderne de pe Strada Hărmanului nr. 24, oferind o panoramă deosebită asupra zonei Centrul Nou, chiar lângă AFI Brașov. Cu un rating remarcabil de 4,9 stele bazat pe peste 280 de recenzii, studioul se impune ca un etalon de excelență și estetică, unde tehnologia digitală de ultimă oră întâlnește o abordare artistică a zâmbetului.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Doctor-Vladau-Studio7.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "sanodent-brasov-centrul-vechi-iuliu-maniu",
+      "nume": "Sanodent – Brașov – Centrul Vechi / Iuliu Maniu",
+      "slug": "sanodent-brasov-centrul-vechi-iuliu-maniu",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Iuliu Maniu 1, 500084 Brașov, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Estetică dentară",
+        "Endodonție",
+        "Pediatrie dentară",
+        "Igienizare profesională",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Sanodent este o clinică stomatologică de prestigiu situată la începutul uneia dintre cele mai importante artere ale Brașovului, pe Strada Iuliu Maniu nr. 1. Cu un rating de 4,9 stele bazat pe peste 130 de recenzii, clinica se definește prin echilibrul perfect între expertiza medicală tradițională și tehnologia modernă, oferind un refugiu de profesionalism chiar la granița cu centrul istoric al orașului.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Sanodent6.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "ilies-dental-clinic-brasov-astra",
+      "nume": "Ilieș Dental Clinic – Brașov – Astra",
+      "slug": "ilies-dental-clinic-brasov-astra",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Strada Albatrosului 4, 500450 Brașov, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Chirurgie orală",
+        "Protetice dentare",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Ilieș Dental Clinic este un centru de excelență în reabilitare orală situat pe Strada Albatrosului nr. 4, fiind una dintre cele mai apreciate clinici din cartierul Astra. Cu un rating de 4,7 stele , clinica se distinge prin specializarea în soluții avansate de implantologie și chirurgie dentară, oferind pacienților acces la tehnologii de ultimă oră pentru redobândirea zâmbetului în timp record.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Ilies-Dental-Clinic5.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "esdent-brasov-astra-calea-bucuresti",
+      "nume": "Esdent – Brașov – Astra / Calea București",
+      "slug": "esdent-brasov-astra-calea-bucuresti",
+      "oras": "Brașov",
+      "judet": "Brașov",
+      "adresa": "Calea București 50, 500365 Brașov, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală",
+        "Pediatrie dentară"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Esdent Calea București reprezintă un reper de profesionalism în peisajul stomatologic brașovean, fiind situată pe una dintre cele mai accesibile artere ale orașului, la numărul 50. Clinica se remarcă printr-o abordare multidisciplinară și un design interior modern, industrial-chic, care oferă pacienților un sentiment de siguranță și confort premium încă de la recepție. Cu un rating solid de 4,8 stele bazat pe peste 350 de recenzii, Esdent este lăudată pentru investițiile masive în tehnologie dig",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Esdent-Calea-Bucuresti4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-12"
+    },
+    {
+      "id": "dental-premier-bucuresti-maria-rosetti-universitate",
+      "nume": "Dental Premier – București – Maria Rosetti / Universitate",
+      "slug": "dental-premier-bucuresti-maria-rosetti-universitate",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Maria Rosetti 26A, 020487 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Protetice dentare",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dental Premier este o clinică stomatologică de elită situată în inima Bucureștiului, pe Strada Maria Rosetti nr. 26A, oferind un standard european în reabilitările orale complexe. Cu o experiență de peste 17 ani și un rating impresionant de 4,9 stele din peste 1.100 de recenzii, clinica se impune ca un centru de excelență unde tehnologia digitală și expertiza medicală se întâlnesc pentru a crea zâmbete perfecte într-un timp record.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dental-Premier3.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "dr-ahmad-jbara-bucuresti-mihai-eminescu-mosilor",
+      "nume": "DR. Ahmad Jbara – București – Mihai Eminescu / Moșilor",
+      "slug": "dr-ahmad-jbara-bucuresti-mihai-eminescu-mosilor",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Mihai Eminescu 252, 030167 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Estetică dentară",
+        "Albire dentară",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Cabinetul DR. Ahmad Jbara reprezintă un etalon de finețe în estetica dentară din Sectorul 2 al Capitalei, fiind situat pe Strada Mihai Eminescu nr. 252.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/DR.-Ahmad-Jbara3.jpg",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "smile-dental-spa-bucuresti-tineretului-sector-4",
+      "nume": "Smile Dental Spa – București – Tineretului / Sector 4",
+      "slug": "smile-dental-spa-bucuresti-tineretului-sector-4",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Hațegana 7, 040571 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Urgențe stomatologice",
+        "Estetică dentară",
+        "Albire dentară",
+        "Pediatrie dentară",
+        "Stomatologie laser",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Smile Dental Spa este o clinică stomatologică modernă și prietenoasă situată în Sectorul 4 al Capitalei, pe Strada Hațegana nr. 7. Într-un spațiu definit de o atmosferă caldă, de tip \"spa\", clinica transformă vizita la dentist într-o experiență relaxantă, axată pe confortul pacientului și pe utilizarea tehnologiilor de ultimă oră pentru îngrijirea zâmbetului.",
+      "faq": [
+        {
+          "intrebare": "Acceptă urgențe stomatologice?",
+          "raspuns": "Da, clinica acceptă urgențe stomatologice. Vă recomandăm să sunați în avans pentru disponibilitate."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Smile-Dental-Spa5.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "dentalmed-bucuresti-cotroceni-13-septembrie",
+      "nume": "DentalMed – București – Cotroceni / 13 Septembrie",
+      "slug": "dentalmed-bucuresti-cotroceni-13-septembrie",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Calea 13 Septembrie 102, Bl. 48 A Parter, 050727 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Protetice dentare",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "DentalMed este o clinică stomatologică de prestigiu, recunoscută la nivel internațional, situată pe Calea 13 Septembrie nr. 102, chiar la granița cu elegantul cartier Cotroceni. Într-un spațiu definit de lux și tehnologie de ultimă oră, clinica oferă o experiență medicală exclusivistă, unde fiecare detaliu este proiectat pentru a asigura confortul absolut al pacientului.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/DentalMed4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "dent-park-implant-dentar-si-stomatologie-bucuresti-eroii-sanitari-cotroceni",
+      "nume": "DENT PARK – Implant Dentar și Stomatologie București – Eroii Sanitari / Cotroceni",
+      "slug": "dent-park-implant-dentar-si-stomatologie-bucuresti-eroii-sanitari-cotroceni",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Bulevardul Eroii Sanitari 25, 050471 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Protetice dentare",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dent Park este o clinică stomatologică de top situată în Sectorul 5 al Bucureștiului, pe Bulevardul Eroii Sanitari nr. 25, oferind servicii medicale premium într-un cadru modern și relaxant. Cu un rating remarcabil de 5,0 stele oferit de peste 1.700 de pacienți , clinica se impune ca un lider în reabilitările orale complexe și estetica dentară de înaltă precizie.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dent-Park4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "dr-braguta-tatiana-stomatologie-si-chirurgie-dento-alveolara-bucuresti-sector-1",
+      "nume": "DR. BRAGUTA TATIANA – Stomatologie și Chirurgie Dento-Alveolară București – Sector 1",
+      "slug": "dr-braguta-tatiana-stomatologie-si-chirurgie-dento-alveolara-bucuresti-sector-1",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada București 15, etaj 1, București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Estetică dentară",
+        "Albire dentară",
+        "Chirurgie orală",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dr. Braguta Tatiana conduce un cabinet stomatologic de top situat în inima Capitalei, fiind recunoscută pentru precizia intervențiilor chirurgicale și abordarea estetică a fiecărui caz medical. Cu un rating impecabil de 5,0 stele oferit de o comunitate de 279 de pacienți mulțumiți, cabinetul reprezintă o destinație de încredere pentru cei care caută profesionalism dublat de o atitudine caldă și empatică.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dentist-Dr.-Braguta-Tatiana-1.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "cris-smile-studio-rahova-implant-dentar-si-urgente-stomatologice-bucuresti-sector-5",
+      "nume": "CRIS SMILE STUDIO RAHOVA – Implant Dentar și Urgențe Stomatologice București – Sector 5",
+      "slug": "cris-smile-studio-rahova-implant-dentar-si-urgente-stomatologice-bucuresti-sector-5",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Malcoci 2, Bloc 36, Sc. B, Parter, Ap. 59, 051923 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Urgențe stomatologice",
+        "Estetică dentară",
+        "Albire dentară",
+        "Chirurgie orală",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Cris Smile Studio Rahova este o clinică stomatologică de referință situată în Sectorul 5 al Bucureștiului, pe Strada Malcoci nr. 2. Clinica se distinge prin capacitatea de a gestiona atât reabilitări orale complexe, cât și urgențe stomatologice, oferind pacienților siguranță și soluții rapide într-un mediu modern.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        },
+        {
+          "intrebare": "Acceptă urgențe stomatologice?",
+          "raspuns": "Da, clinica acceptă urgențe stomatologice. Vă recomandăm să sunați în avans pentru disponibilitate."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Cris-Smile-Studio-Rahova-Clinica-Stomatologica-Sector-5-Urgente-Stomatologice-Implant-Dentar-Bucuresti4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "crystal-dental-clinic-implant-dentar-si-stomatologie-digitala-bucuresti-piata-unirii-sector-3",
+      "nume": "CRYSTAL DENTAL CLINIC – Implant Dentar și Stomatologie Digitală București – Piața Unirii / Sector 3",
+      "slug": "crystal-dental-clinic-implant-dentar-si-stomatologie-digitala-bucuresti-piata-unirii-sector-3",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Olteni 10, 030786 București, România.",
+      "telefon": "031 005 179",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Pediatrie dentară"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Crystal Dental Clinic este o clinică de referință în peisajul stomatologic bucureștean, situată central în Sectorul 3, pe Strada Olteni nr. 10. Cu o experiență vastă și un rating de 4,9 stele susținut de peste 2.000 de recenzii , clinica se impune prin utilizarea tehnologiilor de ultimă generație, precum microscopul electronic, pentru a oferi tratamente de o precizie microscopică.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Crystal-Dental-Clinic6.jpg",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "cris-smile-studio-nasaud-implant-dentar-si-urgente-stomatologice-bucuresti-sector-5",
+      "nume": "CRIS SMILE STUDIO NĂSĂUD – Implant Dentar și Urgențe Stomatologice București – Sector 5",
+      "slug": "cris-smile-studio-nasaud-implant-dentar-si-urgente-stomatologice-bucuresti-sector-5",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Năsăud 68A, 052064 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Urgențe stomatologice",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Cris Smile Studio Năsăud este o clinică stomatologică modernă situată în Sectorul 5 al Capitalei, pe Strada Năsăud nr. 68A. Această locație face parte dintr-un grup stomatologic de prestigiu, fiind recunoscută pentru capacitatea de a soluționa cazuri complexe într-un mediu dotat cu tehnologie de ultimă oră.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        },
+        {
+          "intrebare": "Acceptă urgențe stomatologice?",
+          "raspuns": "Da, clinica acceptă urgențe stomatologice. Vă recomandăm să sunați în avans pentru disponibilitate."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Cris-Smile-Studio-Nasaud63.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "deos-dental-stomatologie-laser-si-estetica-dentara-bucuresti-zona-universitate-sector-2",
+      "nume": "DEOS DENTAL – Stomatologie Laser și Estetică Dentară București – Zona Universitate / Sector 2",
+      "slug": "deos-dental-stomatologie-laser-si-estetica-dentara-bucuresti-zona-universitate-sector-2",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Speranței 20, 030167 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Estetică dentară",
+        "Albire dentară",
+        "Chirurgie orală",
+        "Pediatrie dentară",
+        "Stomatologie laser",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Deos Dental este o clinică stomatologică modernă situată în inima Bucureștiului, pe Strada Speranței nr. 20, într-o zonă încărcată de istorie și ușor accesibilă. Cu un rating de 4,9 stele bazat pe peste 580 de recenzii , clinica se remarcă prin utilizarea tehnologiei laser de ultimă generație pentru a oferi tratamente minim invazive și extrem de precise.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Deos-Dentalb5.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "dental-excellence-implant-dentar-si-stomatologie-digitala-bucuresti-sector-1",
+      "nume": "DENTAL EXCELLENCE – Implant Dentar și Stomatologie Digitală București – Sector 1",
+      "slug": "dental-excellence-implant-dentar-si-stomatologie-digitala-bucuresti-sector-1",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Iordache Golescu nr. 17, 011302 București, România.",
+      "telefon": "031 130 126",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Pediatrie dentară"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Dental Excellence este o clinică stomatologică de prestigiu situată în Sectorul 1 al Capitalei, pe Strada Iordache Golescu nr. 17, oferind standarde europene în îngrijirea sănătății orale. Cu o tradiție consolidată și un rating de 4,9 stele bazat pe aproape 600 de recenzii, clinica se impune ca un centru de excelență unde tehnologia digitală de ultimă generație se îmbină cu experiența unei echipe de medici specialiști dedicați.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Dental-Excellence7.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "smile-avenue-centru-de-excelenta-in-medicina-dentara-bucuresti-popesti-leordeni",
+      "nume": "SMILE AVENUE – Centru de Excelență în Medicină Dentară București – Popești-Leordeni",
+      "slug": "smile-avenue-centru-de-excelenta-in-medicina-dentara-bucuresti-popesti-leordeni",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Drumul Fermei 92, 077160 Popești-Leordeni, Ilfov, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Endodonție",
+        "Chirurgie orală",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Iată descrierea optimizată pentru Smile Avenue , structurată pentru directorul tău web, utilizând informațiile din Google Maps și integrând feedback-ul pozitiv al pacienților: SMILE AVENUE – Centru de Excelență în Medicină Dentară București – Popești-Leordeni Smile Avenue este o clinică stomatologică de prestigiu situată la granița de sud a Capitalei, pe Drumul Fermei nr. 92, în Popești-Leordeni. Centrul se definește ca un pol de excelență medicală, oferind pacienților acces la tratamente stomat",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/SMILE-AVENUE-Clinica-stomatologica3.jpg",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "dent-estet-stomatologie-premium-si-estetica-dentara-bucuresti-aviatorilor-sector-1",
+      "nume": "DENT ESTET – Stomatologie Premium și Estetică Dentară București – Aviatorilor / Sector 1",
+      "slug": "dent-estet-stomatologie-premium-si-estetica-dentara-bucuresti-aviatorilor-sector-1",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Bulevardul Aviatorilor 15, 011852 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Chirurgie orală",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "DENT ESTET este o clinică stomatologică de elită situată în una dintre cele mai exclusiviste zone ale Bucureștiului, pe Bulevardul Aviatorilor nr. 15. Recunoscută pentru standardele sale ridicate și eleganța spațiului medical, clinica deține un rating de 4,7 stele bazat pe peste 850 de recenzii , fiind o destinație de referință pentru pacienții care caută excelență în medicina dentară.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/DENTESTET3.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "catalin-dumitru-dental-clinica-stomatologica-bucuresti-zona-occidentului-sector-1",
+      "nume": "CATALIN DUMITRU DENTAL – Clinică Stomatologică București – Zona Occidentului / Sector 1",
+      "slug": "catalin-dumitru-dental-clinica-stomatologica-bucuresti-zona-occidentului-sector-1",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Occidentului 53-55, 030167 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Estetică dentară",
+        "Endodonție",
+        "Igienizare profesională",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Catalin Dumitru Dental este un cabinet stomatologic modern situat strategic în Sectorul 1 al Capitalei, pe Strada Occidentului nr. 53-55. Clinica se remarcă prin profesionalism și o abordare personalizată, oferind pacienților un mediu sigur și confortabil pentru îngrijirea sănătății orale.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Catalin-Dumitru-Dental-Occidentului5.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "cabinet-stomatologic-vladutiu-clinica-dentara-cluj-napoca-zona-strada-bucuresti",
+      "nume": "CABINET STOMATOLOGIC VLĂDUȚIU – Clinică Dentară Cluj-Napoca – Zona Strada București",
+      "slug": "cabinet-stomatologic-vladutiu-clinica-dentara-cluj-napoca-zona-strada-bucuresti",
+      "oras": "Cluj-Napoca",
+      "judet": "Cluj",
+      "adresa": "Strada București 1, ap. 3, 400138 Cluj-Napoca, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Cabinet Stomatologic Vlăduțiu este o unitate medicală dedicată sănătății orale, situată în municipiul Cluj-Napoca, pe Strada București nr. 1, ap. 3.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Cabinet-Stomatologic-Vladutiu.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "new-dental-clinica-stomatologica-premium-bucuresti-zona-primaverii-sector-1",
+      "nume": "NEW DENTAL – Clinică Stomatologică Premium București – Zona Primăverii / Sector 1",
+      "slug": "new-dental-clinica-stomatologica-premium-bucuresti-zona-primaverii-sector-1",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Pictor Daniel Rosenthal 41, 011933 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Chirurgie orală",
+        "Igienizare profesională",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "New Dental este o clinică stomatologică de top situată în inima cartierului Primăverii, pe Strada Pictor Daniel Rosenthal nr. 41. Cu un rating perfect de 5,0 stele și o comunitate de peste 540 de pacienți mulțumiți , clinica se remarcă prin calitatea excepțională a serviciilor și o abordare centrată pe pacient.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/New-Dental5.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "rasmin-dent-clinica-stomatologica-bucuresti-zona-petre-ispirescu-sector-5",
+      "nume": "RASMIN DENT – Clinică Stomatologică București – Zona Petre Ispirescu / Sector 5",
+      "slug": "rasmin-dent-clinica-stomatologica-bucuresti-zona-petre-ispirescu-sector-5",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Petre Ispirescu nr. 2, 051021 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Chirurgie orală",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Rasmin Dent este o clinică stomatologică cu o experiență vastă, situată în Sectorul 5 al Bucureștiului, pe Strada Petre Ispirescu nr. 2. Cu un rating de 4,8 stele bazat pe peste 870 de recenzii , clinica se distinge prin longevitate și prin relațiile de încredere pe care le-a construit cu pacienții săi de-a lungul deceniilor.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Rasmin-Dent4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "clinica-dentara-excedent-aviatiei-stomatologie-moderna-si-analgosedare-bucuresti-sector-1",
+      "nume": "CLINICA DENTARĂ EXCEDENT (AVIAȚIEI) – Stomatologie Modernă și Analgosedare București – Sector 1",
+      "slug": "clinica-dentara-excedent-aviatiei-stomatologie-moderna-si-analgosedare-bucuresti-sector-1",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Șoseaua Pipera 14, Sector 1 (la 3 min de Metrou Aurel Vlaicu), 014255 București.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Endodonție",
+        "Protetice dentare"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Clinica dentară EXCEDENT (AVIAȚIEI) este un centru stomatologic de referință situat în zona de nord a Capitalei, pe Șoseaua Pipera nr. 14, la doar 3 minute de stația de metrou Aurel Vlaicu și mall-ul Promenada. Cu un rating remarcabil de 4,9 stele bazat pe peste 970 de recenzii , clinica este apreciată pentru profesionalismul echipei și dotările tehnologice de ultimă oră.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Clinica-dentara-EXCEDENT-AVIATIEI4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "life-dental-spa-magheru-stomatologie-laser-si-tratament-fara-durere-bucuresti-sector-1",
+      "nume": "LIFE DENTAL SPA MAGHERU – Stomatologie Laser și Tratament Fără Durere – București Sector 1",
+      "slug": "life-dental-spa-magheru-stomatologie-laser-si-tratament-fara-durere-bucuresti-sector-1",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Clădirea Magheru One, Bulevardul General Gheorghe Magheru Nr. 1-3, 010321 București, România.",
+      "telefon": "031 828 227",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Estetică dentară",
+        "Albire dentară",
+        "Igienizare profesională",
+        "Stomatologie laser",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "Life Dental Spa Magheru este o clinică stomatologică ultra-modernă situată în inima Bucureștiului, în clădirea Magheru One, pe Bulevardul General Gheorghe Magheru nr. 1-3. Având un rating de 4,8 stele bazat pe peste 1.100 de recenzii , clinica este renumită pentru conceptul său inovator de stomatologie laser, care permite tratarea afecțiunilor dentare fără durere și fără ace.",
+      "faq": [
+        {
+          "intrebare": "Cum mă pot programa?",
+          "raspuns": "Puteți contacta clinica telefonic sau prin intermediul site-ului oficial pentru o programare."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/Life-Dental-Spa-Magheru4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "llldental-clinica-stomatologica-de-excelenta-bucuresti-zona-calea-mosilor",
+      "nume": "LLLDENTAL – Clinică Stomatologică de Excelență – București, Zona Calea Moșilor",
+      "slug": "llldental-clinica-stomatologica-de-excelenta-bucuresti-zona-calea-mosilor",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Calea Moșilor 296, bloc 46, scara 2, 020898 București, România.",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Ortodonție",
+        "Estetică dentară",
+        "Albire dentară",
+        "Stomatologie laser",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "LLLDental este o clinică stomatologică de prestigiu situată în Sectorul 2 al Capitalei, pe Calea Moșilor nr. 296. Cu un rating solid de 4,9 stele bazat pe peste 1.400 de recenzii , clinica este recunoscută pentru standardele înalte de profesionalism și pentru utilizarea tehnologiilor medicale avansate în redarea zâmbetului pacienților săi.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/LLLDental.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "world-dentistry-clinic-stomatologie-non-stop-si-estetica-dentara-bucuresti-zona-vitan",
+      "nume": "WORLD DENTISTRY CLINIC – Stomatologie Non-Stop și Estetică Dentară – București, Zona Vitan",
+      "slug": "world-dentistry-clinic-stomatologie-non-stop-si-estetica-dentara-bucuresti-zona-vitan",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "Strada Traian Popovici 79, 91 Parter, 031424 București, România.",
+      "telefon": "031 630 151",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Urgențe stomatologice",
+        "Estetică dentară",
+        "Albire dentară",
+        "Igienizare profesională",
+        "Stomatologie laser",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "00:00–24:00",
+        "Marți": "00:00–24:00",
+        "Miercuri": "00:00–24:00",
+        "Joi": "00:00–24:00",
+        "Vineri": "00:00–24:00",
+        "Sâmbătă": "00:00–24:00",
+        "Duminică": "00:00–24:00"
+      },
+      "descriere": "World Dentistry Clinic este una dintre puținele clinici stomatologice din București care oferă asistență medicală Open 24 hours , fiind situată în Sectorul 3, pe Strada Traian Popovici nr. 79. Cu un rating de 4,9 stele bazat pe peste 420 de recenzii , clinica este o alegere de încredere atât pentru urgențe nocturne, cât și pentru tratamente estetice complexe.",
+      "faq": [
+        {
+          "intrebare": "Acceptă urgențe stomatologice?",
+          "raspuns": "Da, clinica acceptă urgențe stomatologice. Vă recomandăm să sunați în avans pentru disponibilitate."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/World-Dentistry-Clinic4.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    },
+    {
+      "id": "dentistultau-ro-cmi-dr-alina-cruciat-stomatologie-si-implantologie-bucuresti-zona-iancului",
+      "nume": "DENTISTULTAU.RO – CMI DR. ALINA CRUCIAT – Stomatologie și Implantologie București – Zona Iancului",
+      "slug": "dentistultau-ro-cmi-dr-alina-cruciat-stomatologie-si-implantologie-bucuresti-zona-iancului",
+      "oras": "București",
+      "judet": "Ilfov",
+      "adresa": "",
+      "telefon": "",
+      "website": "",
+      "google_maps_url": "",
+      "lat": 0,
+      "lng": 0,
+      "servicii": [
+        "Implant dentar",
+        "Estetică dentară",
+        "Albire dentară",
+        "Stomatologie generală"
+      ],
+      "program": {
+        "Luni": "Contactați clinica",
+        "Marți": "Contactați clinica",
+        "Miercuri": "Contactați clinica",
+        "Joi": "Contactați clinica",
+        "Vineri": "Contactați clinica",
+        "Sâmbătă": "Contactați clinica",
+        "Duminică": "Contactați clinica"
+      },
+      "descriere": "DENTISTULTAU.RO – CMI DR. ALINA CRUCIAT – Stomatologie și Implantologie București – Zona Iancului DentistulTau.ro , sub îndrumarea Dnei. Dr.",
+      "faq": [
+        {
+          "intrebare": "Oferiți servicii de implant dentar?",
+          "raspuns": "Da, clinica este specializată în implantologie, oferind soluții moderne pentru înlocuirea dinților lipsă."
+        }
+      ],
+      "rating": 4.8,
+      "nr_recenzii": 0,
+      "poza": "https://dentistaproape.com/wp-content/uploads/2026/02/DentistulTau.ro-CMI-Dr.-Alina-Cruciat1.webp",
+      "featured": false,
+      "data_adaugare": "2026-02-16"
+    }
+  ],
+  "orase": [
+    {
+      "nume": "Cluj-Napoca",
+      "judet": "Cluj",
+      "slug": "cluj-napoca",
+      "nr_dentisti": 29
+    },
+    {
+      "nume": "Brașov",
+      "judet": "Brașov",
+      "slug": "brasov",
+      "nr_dentisti": 22
+    },
+    {
+      "nume": "București",
+      "judet": "Ilfov",
+      "slug": "bucuresti",
+      "nr_dentisti": 21
+    }
+  ]
+}
